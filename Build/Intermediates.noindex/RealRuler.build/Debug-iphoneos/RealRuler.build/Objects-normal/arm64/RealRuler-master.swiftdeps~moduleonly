@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "91c4caa8a2ea407c1010c13d356e7654"
+build_time: [1553814417, 502321000]
+inputs:
+  "/Users/linhhuynh/Desktop/iOS_Swift_Bootcamp/RealRuler/RealRuler/ViewController.swift": [1546208721, 0]
+  "/Users/linhhuynh/Desktop/iOS_Swift_Bootcamp/RealRuler/RealRuler/AppDelegate.swift": [1546153709, 0]
